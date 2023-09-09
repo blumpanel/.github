@@ -1,4 +1,4 @@
-<p align="center"><a href="https://sinysell.com" target="_blank"><img src="https://blum-panel.com/assets/images/favicon.png" width="400"></a></p>
+r<p align="center"><a href="https://sinysell.com" target="_blank"><img src="https://blum-panel.com/assets/images/favicon.png" width="400"></a></p>
 
 <div align="center">
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/rmsu.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
