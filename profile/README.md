@@ -1,4 +1,4 @@
-<p align="center"><a href="https://sinysell.com" target="_blank"><img src="https://images-ext-1.discordapp.net/external/0_gWka3b-V9_jI1GZq6R62442t7HgRImLIZ_vpTQC7I/https/blog.blum-panel.com/blumpub.png?format=webp&quality=lossless" width="200"></a></p>
+<p align="center"><a href="https://sinysell.com" target="_blank"><img src="https://images-ext-1.discordapp.net/external/0_gWka3b-V9_jI1GZq6R62442t7HgRImLIZ_vpTQC7I/https/blog.blum-panel.com/blumpub.png?format=webp&quality=lossless" width="1720"></a></p>
 
 <div align="center">
 <a href="https://blum-panel.com/discord" target="_blank">
