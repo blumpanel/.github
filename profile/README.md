@@ -8,7 +8,7 @@
   <a href="https://blum-panel.com/discord">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="https://blum-panel.com/telegram" target="_blank">
+  <a href="https://blum-panel.com/telegram">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
   <a href="https://blum-panel.com/youtube" target="_blank">
